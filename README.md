@@ -1,5 +1,7 @@
 # Toward Understanding Generative Data Augmentation
 
+This is the official implementation for [Toward Understanding Generative Data Augmentation](https://arxiv.org/abs/2305.17476).
+
 ## Dependencies
 
 ```bash
